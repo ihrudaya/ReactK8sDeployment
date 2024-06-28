@@ -1,11 +1,11 @@
 # React-Todo-list
 
-This is a React To do list app developed by me to learn and enhance my react skills.
+This is a React To do list app developed containerized and deployed in kubrnetes.
 
  
  ## Tech Stack
 
-  `React` `HTML` `CSS` `Javascript`
+  `React` `HTML` `CSS` `Javascript` 'Docker' 'Minikube'
 
  ## Learnings
 
